@@ -5,7 +5,6 @@
 <br>
 
 ## Features
----
 
 | Sr.no. | Feature | Command |
 | - | - | - |
@@ -22,11 +21,9 @@
 <br>
 
 ## Want to test on your server ?
----
 
 Raise an issue for invite link !
 
 ## Contribution
----
 
 Please feel free to raise an issue if you want to see more functionality added to the bot. PRs are also welcome.
